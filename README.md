@@ -30,14 +30,15 @@ Bsc Computer Science - 72%
 
 ## Skills
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-brightgreen?style=plastic&logoColor=violet&color=%23855555&cacheSeconds=3600">
+<img alt="Static Badge" src="https://img.shields.io/badge/PYTHON-brightgreen?style=for-the-badge&logo=python&logoColor=yellow&color=%23005863&cacheSeconds=3600">
+<img alt="Static Badge" src="https://img.shields.io/badge/PHP-brightgreen?style=for-the-badge&logo=PHP&logoColor=white&color=%23001263&cacheSeconds=3600">
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-brightgreen?style=for-the-badge&logo=HTML5&logoColor=yellow&color=%23120000&cacheSeconds=3600">
+<img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-brightgreen?style=for-the-badge&logo=Javascript&logoColor=rgba(5%2C8%2C5%2C6)&color=blue&cacheSeconds=3600">
+<img alt="Static Badge" src="https://img.shields.io/badge/MySql-brightgreen?style=for-the-badge&logo=oracle&logoColor=rgba(5%2C8%2C5%2C6)&color=blue&cacheSeconds=3600">
+<img alt="Static Badge" src="https://img.shields.io/badge/BOOTSTRAP-brightgreen?style=for-the-badge&logo=bootstrap&logoColor=white&color=%23455665&cacheSeconds=3600">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS-brightgreen?style=for-the-badge&logo=css3&logoColor=%23996354&color=%234556785&cacheSeconds=3600">
+<img alt="Static Badge" src="https://img.shields.io/badge/GITHUB-brightgreen?style=for-the-badge&logo=github&logoColor=%23411425&color=%23963695&cacheSeconds=3600">
 
-
-- Web Application Development
-- Python
-- Scripting languages: PHP, HTML, JavaScript
-- MySQL
-- Bootstrap
 
 ## Achievements & Awards
 
