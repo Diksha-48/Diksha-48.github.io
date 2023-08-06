@@ -1,0 +1,6 @@
+# Configuration file for a minimal GitHub Pages theme
+
+# Site settings
+title: Diksha
+description: Web Developer
+theme: jekyll-theme-minimal
